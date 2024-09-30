@@ -7,8 +7,8 @@
 
 Um dos primeiros códigos que me fizeram bater cabeça rsrs:
 
-Scanner scan = new Scanner(System.in);
-		
+
+		Scanner scan = new Scanner(System.in);
 		String vNome;
 		String vSexo;
 		String vEstCivil;
