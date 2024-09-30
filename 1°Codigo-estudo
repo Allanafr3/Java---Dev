@@ -1,5 +1,11 @@
 ##Um dos primeiros códiguinhos rsrs
 
+##Nesse simples código, iremos ver o programa realizando algumas perguntas básicas e aplicando excessões e loop's de acordo
+com a resposta do usuário:
+
+
+
+
 
 
 Scanner scan = new Scanner(System.in);
